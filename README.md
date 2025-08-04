@@ -1,4 +1,7 @@
-[IMAGE 2025-08-04 23:45:30](https://github.com/user-attachments/assets/40a297ed-3152-4905-b69f-8b66bb93e5f6)
+<img width="400" height="295" alt="image" src="https://github.com/user-attachments/assets/a2bfdbc8-39fa-49b4-b297-1cf03f857442" />
+
+
+
 # DNG White Balance Tag Editor
 
 A simple GUI tool for editing the AsShotNeutral white balance values in DNG raw image files.
